@@ -1,0 +1,3 @@
+- Theme: Dark Mode
+- Welcome Sound: Enabled
+- Plugin Set: Minimal
